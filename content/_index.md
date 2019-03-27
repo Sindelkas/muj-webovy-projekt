@@ -1,27 +1,25 @@
 ---
-title: Home
----
+title: Hudba a já---
 
-# Hello World! (It works!)
+# Úvod 
+**Chtìl bych zjistit a popsat, jaké vlivy má rùzná hudba na èlovìka, jak dùležitá je pro dnešní mladou generaci, jak je dùležitá pro jiné, jak rùzné druhy hudby lidé vnímají.**
 
-This are the contents of the Hugo start website front page.
+Vzhledem k dùležitosti hudby pro mne samotného mì napadlo, že by nebylo od vìci, trochu prozkoumat toto zákoutí. Snad všichni lidé poslouchají hudbu a a už je to jakýkoliv žánr, její dùležitost pro lidského jedince nelze vylouèit.
 
-## Something to read: Sonnet LXVI.
+V dnešní dobì existuje již mnoho studií na toto téma, èeho jsem však já chtìl dosáhnout, je napøíklad nacházení spojitosti mezi tím, co èlovìk poslouchá a tím, v jaké spoleèenské vrstvì se nachází, jaké jsou jeho sociální podmínky a v neposlední øadì, proè zaèal daný jedinec ten urèitý typ hudby poslouchat. 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
 
+
+### Zdroje
+
+https://www.frontiersin.org/research-topics/7467/the-impact-of-music-on-human-development-and-well-being
+
+https://owlcation.com/social-sciences/The-Effect-of-Music-on-Human-Health-and-Brain-Growth
+
+https://www.healthline.com/health-news/mental-listening-to-music-lifts-or-reinforces-mood-051713#5
+
+https://www.verywellmind.com/surprising-psychological-benefits-of-music-4126866
+
+https://www.scienceofpeople.com/scientific-benefits-music/
+
+https://en.wikipedia.org/wiki/Music_psychology
