@@ -9,7 +9,7 @@ Vzhledem k důležitosti hudby pro mne samotného mě napadlo, že by nebylo od 
 
 V dnešní době existuje již mnoho studií na toto téma, čeho jsem však já chtěl dosáhnout, je například nacházení spojitosti mezi tím, co člověk poslouchá a tím, v jaké společenské vrstvě se nachází, jaké jsou jeho sociální podmínky a v neposlední řadě, proč začal daný jedinec ten určitý typ hudby poslouchat. 
 
-Jsou nám známa fakta, jako například, že hudba pomáhá rozvíjet pamět, že může mít kladné účinky na vyléčení traumat apod. Toto bych chtěl, aby se stalo náplní řešení tohoto projektu.
+Jsou nám známa fakta, jako například, že hudba pomáhá rozvíjet pamět, že může mít kladné účinky na vyléčení traumat apod. Toto bych chtěl, aby se stalo náplní tohoto projektu.
 
 ### Zdroje
 
