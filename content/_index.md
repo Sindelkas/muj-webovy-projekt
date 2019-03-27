@@ -1,14 +1,15 @@
 ---
-title: Hudba a já---
+title: Hudba a jÃ¡
+---
 
-# Úvod 
-**Chtìl bych zjistit a popsat, jaké vlivy má rùzná hudba na èlovìka, jak dùleitá je pro dnešní mladou generaci, jak je dùleitá pro jiné, jak rùzné druhy hudby lidé vnímají.**
+# Ãšvod 
+**ChtÄ›l bych zjistit a popsat, jakÃ© vlivy mÃ¡ rÅ¯znÃ¡ hudba na ÄlovÄ›ka, jak dÅ¯leÅ¾itÃ¡ je pro dneÅ¡nÃ­ mladou generaci, jak je dÅ¯leÅ¾itÃ¡ pro jinÃ©, jak rÅ¯znÃ© druhy hudby lidÃ© vnÃ­majÃ­.**
 
-Vzhledem k dùleitosti hudby pro mne samotného mì napadlo, e by nebylo od vìci, trochu prozkoumat toto zákoutí. Snad všichni lidé poslouchají hudbu a a u je to jakıkoliv ánr, její dùleitost pro lidského jedince nelze vylouèit.
+Vzhledem k dÅ¯leÅ¾itosti hudby pro mne samotnÃ©ho mÄ› napadlo, Å¾e by nebylo od vÄ›ci, trochu prozkoumat toto zÃ¡koutÃ­. Snad vÅ¡ichni lidÃ© poslouchajÃ­ hudbu a aÅ¥ uÅ¾ je to jakÃ½koliv Å¾Ã¡nr, jejÃ­ dÅ¯leÅ¾itost pro lidskÃ©ho jedince nelze vylouÄit.
 
-V dnešní dobì existuje ji mnoho studií na toto téma, èeho jsem však já chtìl dosáhnout, je napøíklad nacházení spojitosti mezi tím, co èlovìk poslouchá a tím, v jaké spoleèenské vrstvì se nachází, jaké jsou jeho sociální podmínky a v neposlední øadì, proè zaèal danı jedinec ten urèitı typ hudby poslouchat. 
+V dneÅ¡nÃ­ dobÄ› existuje jiÅ¾ mnoho studiÃ­ na toto tÃ©ma, Äeho jsem vÅ¡ak jÃ¡ chtÄ›l dosÃ¡hnout, je napÅ™Ã­klad nachÃ¡zenÃ­ spojitosti mezi tÃ­m, co ÄlovÄ›k poslouchÃ¡ a tÃ­m, v jakÃ© spoleÄenskÃ© vrstvÄ› se nachÃ¡zÃ­, jakÃ© jsou jeho sociÃ¡lnÃ­ podmÃ­nky a v neposlednÃ­ Å™adÄ›, proÄ zaÄal danÃ½ jedinec ten urÄitÃ½ typ hudby poslouchat. 
 
-
+Jsou nÃ¡m znÃ¡ma fakta, jako napÅ™Ã­klad, Å¾e hudba pomÃ¡hÃ¡ rozvÃ­jet pamÄ›t, Å¾e mÅ¯Å¾e mÃ­t kladnÃ© ÃºÄinky na vylÃ©ÄenÃ­ traumat apod. Toto bych chtÄ›l, aby se stalo nÃ¡plnÃ­ Å™eÅ¡enÃ­ tohoto projektu.
 
 ### Zdroje
 
